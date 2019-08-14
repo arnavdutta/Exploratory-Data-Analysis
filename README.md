@@ -21,8 +21,5 @@ The particular graphical techniques employed in EDA are often quite simple, cons
 
 * Positioning such plots so as to maximize our natural pattern-recognition abilities, such as using multiple plots per page.[2](https://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm)
 
-This repository has two different EDA:
-
-1. EDA on Artifitial Satellites around Earth
-2. Telco Customer Churn EDA
+### EDA on Artifitial Satellites around Earth
 
